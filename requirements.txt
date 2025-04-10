@@ -1,0 +1,10 @@
+huggingface_hub
+accelerate
+transformers
+peft
+datasets
+bitsandbytes
+streamlit
+beautifulsoup4
+requests
+torch

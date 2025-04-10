@@ -1,0 +1,227 @@
+[
+  {
+    "instruction": "Define 'Bull Market'.",
+    "input": "",
+    "output": "A 'Bull Market' is a financial market condition characterized by rising asset prices, investor optimism, and strong economic indicators, typically sustained over an extended period."
+  },
+  {
+    "instruction": "Explain the term 'Bear Market'.",
+    "input": "",
+    "output": "A 'Bear Market' refers to a market condition where asset prices are declining significantly, usually by 20% or more, accompanied by widespread pessimism and negative investor sentiment."
+  },
+  {
+    "instruction": "What is 'Asset Allocation'?",
+    "input": "",
+    "output": "'Asset Allocation' is an investment strategy involving spreading investments across different asset classes, such as stocks, bonds, and cash, to balance risk and reward according to an investor's goals and risk tolerance."
+  },
+  {
+    "instruction": "Describe 'Diversification'.",
+    "input": "",
+    "output": "'Diversification' is a risk management technique that involves investing in a wide variety of assets to reduce exposure to any single asset or risk, minimizing the impact of market volatility on a portfolio."
+  },
+  {
+    "instruction": "Define 'Liquidity' in investment terms.",
+    "input": "",
+    "output": "'Liquidity' is the ease with which an asset or investment can be converted quickly into cash without significantly affecting its market value."
+  },
+  {
+    "instruction": "What does 'Market Capitalization' mean?",
+    "input": "",
+    "output": "'Market Capitalization' refers to the total market value of a company's outstanding shares, calculated by multiplying the current share price by the total number of shares outstanding."
+  },
+  {
+    "instruction": "Explain the concept of 'Dividend'.",
+    "input": "",
+    "output": "A 'Dividend' is a payment made by a company to its shareholders, typically from the company's profits, distributed periodically as a return on investment."
+  },
+  {
+    "instruction": "What is a 'Bond'?",
+    "input": "",
+    "output": "A 'Bond' is a fixed-income debt instrument through which an investor loans money to a borrower, typically a corporation or government, for a defined period at a fixed or variable interest rate."
+  },
+  {
+    "instruction": "Define 'Compound Interest'.",
+    "input": "",
+    "output": "'Compound Interest' refers to interest calculated on the initial principal and also on the accumulated interest of previous periods, allowing investments to grow exponentially over time."
+  },
+  {
+    "instruction": "Explain 'Risk Tolerance'.",
+    "input": "",
+    "output": "'Risk Tolerance' is an investor's willingness and capacity to handle variability or uncertainty in investment returns, influencing their investment decisions and portfolio composition."
+  },
+  {
+    "instruction": "What does 'Return on Investment (ROI)' mean?",
+    "input": "",
+    "output": "'Return on Investment (ROI)' is a performance measure used to evaluate the profitability of an investment, calculated as the ratio of net gain or loss relative to the original cost of investment."
+  },
+  {
+    "instruction": "Define the term 'Volatility'.",
+    "input": "",
+    "output": "'Volatility' measures the degree of variation in the price of an asset over time, representing how quickly and dramatically prices fluctuate."
+  },
+  {
+    "instruction": "What is meant by 'Mutual Fund'?",
+    "input": "",
+    "output": "A 'Mutual Fund' is an investment vehicle that pools money from multiple investors to collectively invest in diversified portfolios of securities, managed by professional fund managers."
+  },
+  {
+    "instruction": "Explain 'ETF' (Exchange-Traded Fund).",
+    "input": "",
+    "output": "An 'ETF' (Exchange-Traded Fund) is a marketable security that tracks an index, commodity, bonds, or a basket of assets, trading like a common stock on an exchange."
+  },
+  {
+    "instruction": "Define 'Inflation Risk'.",
+    "input": "",
+    "output": "'Inflation Risk' is the risk that inflation will erode the purchasing power of an investment’s returns, reducing the real value of returns over time."
+  },
+  {
+    "instruction": "What does 'Hedging' mean?",
+    "input": "",
+    "output": "'Hedging' is an investment strategy used to minimize or offset potential losses by taking a position in a related asset or derivative, countering unwanted exposure to market risks."
+  },
+  {
+    "instruction": "Describe 'Capital Gain'.",
+    "input": "",
+    "output": "'Capital Gain' is the profit made from selling an asset, such as stocks, bonds, or real estate, at a higher price than its original purchase cost."
+  },
+  {
+    "instruction": "What is 'Short Selling'?",
+    "input": "",
+    "output": "'Short Selling' is the practice of borrowing securities to sell immediately in the market with the expectation of buying them back at a lower price later, profiting from a decline in the asset's price."
+  },
+  {
+    "instruction": "Explain 'Price-Earnings (P/E) Ratio'.",
+    "input": "",
+    "output": "The 'Price-Earnings (P/E) Ratio' is a valuation metric calculated by dividing a company’s current share price by its earnings per share (EPS), used to assess whether a stock is overvalued or undervalued."
+  },
+  {
+    "instruction": "Define 'Portfolio'.",
+    "input": "",
+    "output": "A 'Portfolio' refers to a collection of financial assets such as stocks, bonds, cash, and mutual funds held by an individual investor or institution to achieve investment objectives."
+  },
+  {
+    "instruction": "What is 'Dollar-Cost Averaging'?",
+    "input": "",
+    "output": "'Dollar-Cost Averaging' is an investment technique that involves regularly investing a fixed amount of money into a specific asset regardless of its price fluctuations, reducing the impact of volatility."
+  },
+  {
+    "instruction": "Explain the term 'Asset Management'.",
+    "input": "",
+    "output": "'Asset Management' is a professional service involving the management of financial assets and portfolios on behalf of investors to achieve specific investment objectives, including risk management and maximization of returns."
+  },
+  {
+    "instruction": "Define 'Rebalancing'.",
+    "input": "",
+    "output": "'Rebalancing' is periodically adjusting the composition of an investment portfolio back to its original target allocation to maintain a desired level of risk and return."
+  },
+  {
+    "instruction": "What does 'Market Risk' mean?",
+    "input": "",
+    "output": "'Market Risk' refers to the possibility of losses due to factors affecting the overall performance of financial markets, such as economic downturns, geopolitical events, or global market disruptions."
+  },
+  {
+    "instruction": "Describe 'Equity Investment'.",
+    "input": "",
+    "output": "'Equity Investment' involves buying shares or ownership stakes in companies, entitling investors to profits in the form of dividends or capital gains from increased stock prices."
+  },
+  {
+    "instruction": "What is a 'Prospectus'?",
+    "input": "",
+    "output": "A 'Prospectus' is a formal legal document providing details about an investment offering to the public, including financial statements, management biographies, risks, and terms of the offering."
+  },
+  {
+    "instruction": "Define 'Index Fund'.",
+    "input": "",
+    "output": "An 'Index Fund' is a type of mutual fund or ETF designed to replicate the performance of a specific market index, such as the S&P 500, by holding all or representative securities within that index."
+  },
+  {
+    "instruction": "Explain 'Leverage' in investing.",
+    "input": "",
+    "output": "'Leverage' involves using borrowed funds to increase the potential return of an investment, magnifying both potential gains and losses."
+  },
+  {
+    "instruction": "What is a 'Brokerage Account'?",
+    "input": "",
+    "output": "A 'Brokerage Account' is an account opened with a licensed brokerage firm allowing investors to buy and sell securities, including stocks, bonds, mutual funds, and ETFs."
+  },
+  {
+    "instruction": "Describe 'Derivatives'.",
+    "input": "",
+    "output": "'Derivatives' are financial contracts whose value depends on an underlying asset, such as stocks, bonds, commodities, currencies, or interest rates, used for hedging risks, speculation, or gaining leverage."
+  },
+  {
+    "instruction": "Define the metric 'Alpha' in investing.",
+    "input": "",
+    "output": "'Alpha' is a metric that measures an investment's performance compared to a benchmark, indicating the value added by a fund manager's skill. A positive alpha suggests outperformance relative to the market."
+  },
+  {
+    "instruction": "Explain the 'Beta' metric.",
+    "input": "",
+    "output": "'Beta' measures the volatility of an investment relative to the overall market. A beta greater than 1 indicates higher volatility than the market, whereas a beta below 1 indicates lower volatility."
+  },
+  {
+    "instruction": "What is 'Sharpe Ratio'?",
+    "input": "",
+    "output": "'Sharpe Ratio' assesses the performance of an investment relative to its risk, calculated by subtracting the risk-free rate from the investment’s return and dividing by its standard deviation. A higher Sharpe Ratio indicates better risk-adjusted performance."
+  },
+  {
+    "instruction": "Describe 'Sortino Ratio'.",
+    "input": "",
+    "output": "'Sortino Ratio' is similar to the Sharpe Ratio but focuses only on downside volatility (negative returns), measuring how well an investment compensates for downside risk specifically."
+  },
+  {
+    "instruction": "Define 'Standard Deviation' in finance.",
+    "input": "",
+    "output": "'Standard Deviation' quantifies the variability or volatility of investment returns, indicating how widely returns vary from their average over a specified period."
+  },
+  {
+    "instruction": "Explain the 'Expense Ratio'.",
+    "input": "",
+    "output": "'Expense Ratio' measures the percentage of fund assets used annually to cover operating expenses, including management fees, administration, and other costs. Lower expense ratios generally benefit investors."
+  },
+  {
+    "instruction": "What is 'Return on Equity (ROE)'?",
+    "input": "",
+    "output": "'Return on Equity (ROE)' measures a company’s profitability relative to shareholder equity, calculated by dividing net income by average shareholder equity. A higher ROE typically indicates greater efficiency."
+  },
+  {
+    "instruction": "Define 'Earnings Per Share (EPS)'.",
+    "input": "",
+    "output": "'Earnings Per Share (EPS)' measures the profitability allocated to each outstanding share, calculated by dividing a company’s net profit by the number of shares outstanding."
+  },
+  {
+    "instruction": "Explain 'Dividend Yield'.",
+    "input": "",
+    "output": "'Dividend Yield' is the annual dividend payment expressed as a percentage of a stock’s current price, indicating how much investors receive in dividends relative to their investment cost."
+  },
+  {
+    "instruction": "What is 'Debt-to-Equity Ratio'?",
+    "input": "",
+    "output": "'Debt-to-Equity Ratio' measures a company's financial leverage by comparing its total liabilities to shareholder equity, indicating the proportion of debt used in financing the company’s assets."
+  },
+  {
+    "instruction": "Describe 'Price-to-Book (P/B) Ratio'.",
+    "input": "",
+    "output": "'Price-to-Book (P/B) Ratio' compares a company’s market value to its book value, indicating how the market values the company’s net assets. Lower ratios may suggest undervaluation."
+  },
+  {
+    "instruction": "Define 'Current Ratio'.",
+    "input": "",
+    "output": "'Current Ratio' measures a company’s ability to meet short-term obligations, calculated as current assets divided by current liabilities. Ratios above 1 indicate sufficient short-term liquidity."
+  },
+  {
+    "instruction": "Explain 'PEG (Price/Earnings-to-Growth) Ratio'.",
+    "input": "",
+    "output": "The 'PEG Ratio' assesses stock valuation by dividing the price-to-earnings (P/E) ratio by expected earnings growth. A PEG ratio below 1 typically suggests undervaluation relative to expected growth."
+  },
+  {
+    "instruction": "What is 'Return on Assets (ROA)'?",
+    "input": "",
+    "output": "'Return on Assets (ROA)' indicates a company's efficiency in generating profit from its total assets, calculated by dividing net income by total average assets."
+  },
+  {
+    "instruction": "Describe the 'Payout Ratio'.",
+    "input": "",
+    "output": "'Payout Ratio' measures the proportion of earnings paid to shareholders as dividends, calculated by dividing dividends per share by earnings per share. Lower ratios suggest greater reinvestment potential for company growth."
+  }
+]
