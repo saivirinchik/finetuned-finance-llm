@@ -18,7 +18,7 @@ This README explains how I structured the project and how to use each version.
 # Installation & Setup
 
 1. Clone the Repo
-    - git clone https://github.com/saivirinchi125/finance-qa-llm.git
+    - git clone https://github.com/saivirinchik/finetuned-finance-llm.git
 
 2. Install Dependencies
     - pip install -r requirements.txt
