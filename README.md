@@ -10,11 +10,6 @@ This README explains how I structured the project and how to use each version.
 2. For those with CUDA, I created a version that can take advantage of GPU acceleration, especially for bigger LLMs.
 3. This let me practice bitsandbytes or PEFT GPU-based approaches while still offering a CPU fallback.
 
-# Project Overview
-1. Data: I scraped and cleaned finance-related content from Wikipedia and Investopedia, then fine-tuned a Llama 3.2 model (using Hugging Face PEFT).
-2. Deployment: A Streamlit application provides a web-based Q&A interface.
-3. CPU vs. GPU: The main difference is how the model is loaded (device_map="auto" for GPU or an explicit CPU map if no GPU).
-
 # Installation & Setup
 
 1. Clone the Repo
